@@ -15,18 +15,18 @@ Models Used: Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Mach
 
 Data Preprocessing
 
-Handled missing values
-Encoded categorical variables
+Handled missing values.
+Encoded categorical variables.
 Scaled features using StandardScaler
 
 Exploratory Data Analysis
-Visualized distributions and outliers using histograms and boxplots
+Visualized distributions and outliers using histograms and boxplots.
 Analyzed class distribution and feature correlations
 
 Model Training
 
-Split dataset into training and testing sets
-Trained Logistic Regression, KNN, and SVM models
+Split dataset into training and testing sets. 
+Trained Logistic Regression, KNN, and SVM models. 
 Compared model performance using accuracy and ROC AUC scores
 
 
