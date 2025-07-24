@@ -40,7 +40,7 @@ Each model’s performance was evaluated using:
 
 Accuracy Score,Confusion Matrix,Classification Report,ROC Curve and AUC Score
 
- Requirements
+📚 Requirements
 
 Python 3.x
 pandas
