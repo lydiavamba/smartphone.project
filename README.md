@@ -20,6 +20,7 @@ Encoded categorical variables.
 Scaled features using StandardScaler
 
 Exploratory Data Analysis
+
 Visualized distributions and outliers using histograms and boxplots.
 Analyzed class distribution and feature correlations
 
